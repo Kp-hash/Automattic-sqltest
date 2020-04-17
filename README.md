@@ -1,2 +1,2 @@
 # Automattic-sqltest
-This was a pre-interview  SQL test I had to pass to get an interview at Automattic.
+This was a pre-interview  SQL test I passed which got me an interview at Automattic.
